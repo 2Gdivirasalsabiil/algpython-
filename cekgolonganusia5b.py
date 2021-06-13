@@ -1,4 +1,4 @@
-
+ #@author : Divira Salsabiil Susanto - 20083000178
 """
 Cek golongan usia menggunakan loop
 - loop cek inputan range usia harus 0-100
