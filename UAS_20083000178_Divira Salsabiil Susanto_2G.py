@@ -1,3 +1,8 @@
+"""
+Created on Wed Jul  7 21:53:12 2021
+
+@author: Divira Salsabiil Susanto_20083000178_2G
+"""
 from datetime import date, time, datetime
 tanggalSlipGaji = date.today()
 
